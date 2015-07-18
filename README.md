@@ -7,3 +7,4 @@ files
 math
 ====
 - Probabilities of guessing combination locks.
+- Probabilities of brute forcing a combination lock.
